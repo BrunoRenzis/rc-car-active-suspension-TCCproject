@@ -1,3 +1,5 @@
+> Note: The final version of the source code was developed collaboratively as part of a team project and is not fully available in this repository. This repository focuses on documenting the system architecture and technical implementation.
+
 🚗 RC Car with Active Suspension – Technical Project
 📌 Overview
 
